@@ -11,11 +11,11 @@ We developed a table for total number of rides, total drivers, total fares, aver
 
 #### Table 2.1
 
-![Table 2.1]()
+![Table 2.1](analysis/PyBer_Challenge_table.png)
 
 #### Figure 2.1
 
-![Figure]()
+![Figure](analysis/PyBer_challenge_graph.png)
 
 ## 3.	Summary:
 
